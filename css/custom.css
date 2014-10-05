@@ -2,9 +2,19 @@
 body {
   padding-top: 50px;
   padding-bottom: 20px;
+  height: 90%;
+  background:url(../Women.jpg) no-repeat center center fixed;
+    background-repeat:no-repeat;
+	background-size:100% 100%;
 }
 
-.jumbotron { text-align: center }
+.jumbotron { 
+	text-align: center; 
+	padding-bottom: 30%;
+	background-image: url('Women.jpg') no-repeat center center fixed;
+    background-repeat:no-repeat;
+    background-color: rgba(238, 238, 238, 0.24);
+}
 
 #startButton { 
 	position: relative;
@@ -15,7 +25,7 @@ body {
 	line-height: 1.0;
 }
 
-#mainList {
-	
+#container {
+	opacity: 1.0;
 }
 

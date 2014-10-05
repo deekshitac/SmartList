@@ -1,0 +1,9 @@
+{
+  "firebase": "smart-list",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
